@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/digender.github.io/monstors-rolodex-react/static/css/main.1cd99e50.chunk.css",
+    "main.js": "/digender.github.io/monstors-rolodex-react/static/js/main.2520fa9d.chunk.js",
+    "main.js.map": "/digender.github.io/monstors-rolodex-react/static/js/main.2520fa9d.chunk.js.map",
+    "runtime-main.js": "/digender.github.io/monstors-rolodex-react/static/js/runtime-main.8016834b.js",
+    "runtime-main.js.map": "/digender.github.io/monstors-rolodex-react/static/js/runtime-main.8016834b.js.map",
+    "static/js/2.97293c75.chunk.js": "/digender.github.io/monstors-rolodex-react/static/js/2.97293c75.chunk.js",
+    "static/js/2.97293c75.chunk.js.map": "/digender.github.io/monstors-rolodex-react/static/js/2.97293c75.chunk.js.map",
+    "index.html": "/digender.github.io/monstors-rolodex-react/index.html",
+    "precache-manifest.328ee25958ec8dff94f1b67ceb036719.js": "/digender.github.io/monstors-rolodex-react/precache-manifest.328ee25958ec8dff94f1b67ceb036719.js",
+    "service-worker.js": "/digender.github.io/monstors-rolodex-react/service-worker.js",
+    "static/css/main.1cd99e50.chunk.css.map": "/digender.github.io/monstors-rolodex-react/static/css/main.1cd99e50.chunk.css.map",
+    "static/js/2.97293c75.chunk.js.LICENSE.txt": "/digender.github.io/monstors-rolodex-react/static/js/2.97293c75.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8016834b.js",
+    "static/js/2.97293c75.chunk.js",
+    "static/css/main.1cd99e50.chunk.css",
+    "static/js/main.2520fa9d.chunk.js"
+  ]
+}
