@@ -22,7 +22,7 @@ class App extends Component {
    console.log('hello');
  }
 
- searchOnChange(e) {
+ handleChange = (e) => {
   this.setState({ searchField: e.target.value});//callback requiredhere as setSTate is asynchronus
  }
   
@@ -34,10 +34,10 @@ class App extends Component {
     });
     return (
       <div className="App">
+        <h1 className="">Monster's Rolodex</h1>
         <SearchBox
           placeholder='search monsters'
-          handleChange={(e) => {this.searchOnChange(e)}
-        }/>
+          handleChange={this.handleChange}/>
         <br/>
         <br/>
         <CardList monsters={filteredMonsters}></CardList>
